@@ -1,0 +1,17 @@
+gc9a01a.h:188:20:GC9A01A_set_spi_datasize	16	static
+gc9a01a.h:206:20:GC9A01A_start_spi_transaction	16	static
+gc9a01a.h:210:20:GC9A01A_end_spi_transaction	16	static
+main.c:121:6:Beep	8	static
+main.c:127:6:draw_segment	40	static
+main.c:139:6:Display_Digit	40	static
+main.c:155:6:Display_Small_Digit	40	static
+main.c:171:6:FSM_Update	24	static
+main.c:259:5:main	64	static,ignoring_inline_asm
+main.c:409:6:SystemClock_Config	88	static
+main.c:456:13:MX_RTC_Init	16	static
+main.c:513:13:MX_SPI1_Init	8	static
+main.c:551:13:MX_TIM2_Init	32	static
+main.c:596:13:MX_GPIO_Init	40	static
+main.c:634:6:HAL_GPIO_EXTI_Callback	24	static
+main.c:662:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:700:6:Error_Handler	4	static,ignoring_inline_asm

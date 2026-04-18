@@ -1,0 +1,11 @@
+gc9a01a.h:188:20:GC9A01A_set_spi_datasize	16	static
+gc9a01a.h:206:20:GC9A01A_start_spi_transaction	16	static
+gc9a01a.h:210:20:GC9A01A_end_spi_transaction	16	static
+gc9a01a.h:214:20:GC9A01A_transmit_command	16	static
+gc9a01a.h:225:20:GC9A01A_transmit_data	24	static
+gc9a01a.c:12:6:GC9A01A_init	32	static
+gc9a01a.c:71:6:GC9A01A_configure_param	24	static
+gc9a01a.c:84:6:GC9A01A_set_addr_window	32	static
+gc9a01a.c:107:6:GC9A01A_draw_pixel	32	static
+gc9a01a.c:118:6:GC9A01A_draw_pixels	40	static
+gc9a01a.c:134:6:GC9A01A_draw_screen	24	static
